@@ -1,6 +1,6 @@
 # 💻 Azariel Moreno | Front-End Developer
 
-¡Hola! 👋 Soy **Azariel Moreno**, un desarrollador Front-End con más de **4 meses de experiencia** en la creación de interfaces web atractivas en equipo, optimizadas y de alto rendimiento. Me apasiona aprender nuevas tecnologías y mejorar mis habilidades para llevar mis proyectos al siguiente nivel. 🚀
+¡Hola! 👋 Soy **Azariel Moreno**, un desarrollador Front-End con más de **2 años de Estudio y experiencia** en la creación de interfaces web atractivas individualmente o en equipo, optimizadas y de alto rendimiento. Me apasiona aprender nuevas tecnologías y mejorar mis habilidades para llevar mis proyectos al siguiente nivel. 🚀
 
 ---
 
