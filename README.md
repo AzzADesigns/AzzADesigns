@@ -15,7 +15,7 @@
 - **Gestión de proyectos**: GitHub Projects, Trello, Jira
 - **Control de versiones**: Git & GitHub
 - **Nociones adicionales**: Consumo de APIs, Next.js, TypeScript, Postman
-- -**Ingles A1**
+- **Ingles A1**
 
 ---
 
