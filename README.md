@@ -8,9 +8,10 @@
 
 - **Front-End**: React, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3
 - **Animaciones**: Framer Motion
-- **Back-End**: Node.js
+- **Back-End**: Node.js, MySql
 - **Diseño UX/UI**: Enfocado en accesibilidad y experiencia de usuario
-- **Herramientas**: Git, GitHub, Trello, Jira, Postman
+- **Herramientas**: Git, GitHub, Trello, Jira
+- - **Conocimientos adicionales**: Consumo de APIs, Next.js, TypeScript, MySql, Postman
 
 ---
 
