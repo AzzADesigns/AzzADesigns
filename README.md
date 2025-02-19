@@ -33,7 +33,7 @@ Sistema de seguimiento escolar con integración de API.
 
 ## 👥 Experiencia en equipo
 
-Trabajo en equipos utilizando metodologías ágiles y herramientas como **GitHub Projects** y **Trello**. Me adapto rápidamente a nuevas dinámicas y disfruto colaborando para crear productos de calidad.
+Experiencia de mas de 4 meses de rabajo en equipos multidiciplinarios utilizando metodologías ágiles **(SCRUM)** y herramientas como **GitHub Projects** y **Trello**. Me adapto rápidamente a nuevas dinámicas y disfruto colaborando para crear productos de calidad.
 
 ---
 
