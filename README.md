@@ -1,6 +1,6 @@
 # 💻 Azariel Moreno | Front-End Developer
 
-¡Hola! 👋 Soy **Azariel Moreno**, un desarrollador Front-End con más de **2 años de estudio y experiencia** en la creación de interfaces web atractivas individualmente o en equipo, optimizadas y de alto rendimiento. Me apasiona aprender nuevas tecnologías y mejorar mis habilidades para llevar mis proyectos al siguiente nivel. 🚀
+¡Hola! 👋 Soy **Azariel Moreno**, un desarrollador Front-End con más de **2 años de estudio y experiencia** en la creación de interfaces web atractivas, optimizadas y de alto rendimiento, individualmente o en equipo. Me apasiona aprender nuevas tecnologías y mejorar mis habilidades para llevar mis proyectos al siguiente nivel. 🚀
 
 ---
 
@@ -15,6 +15,7 @@
 - **Gestión de proyectos**: GitHub Projects, Trello, Jira
 - **Control de versiones**: Git & GitHub
 - **Nociones adicionales**: Consumo de APIs, Next.js, TypeScript, Postman
+- -**Ingles A1**
 
 ---
 
