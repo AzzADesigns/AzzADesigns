@@ -1,58 +1,44 @@
-💻 Azariel Moreno | Front-End Developer
+# 💻 Azariel Moreno | Front-End Developer
 
-¡Hola! Soy Azariel Moreno, desarrollador Front-End con más de 2 años de experiencia en programación web. Me apasiona crear interfaces atractivas, optimizadas y con un alto rendimiento. Siempre busco mejorar mis habilidades y aprender nuevas tecnologías para llevar mis proyectos al siguiente nivel.
+¡Hola! 👋 Soy **Azariel Moreno**, un desarrollador Front-End con más de **4 meses de experiencia** en la creación de interfaces web atractivas en equipo, optimizadas y de alto rendimiento. Me apasiona aprender nuevas tecnologías y mejorar mis habilidades para llevar mis proyectos al siguiente nivel. 🚀
 
-🚀 Tecnologías y herramientas
+---
 
-Front-End: React, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3
+## 🛠️ Tecnologías
 
-Animaciones: Framer Motion
+- **Front-End**: React, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3
+- **Animaciones**: Framer Motion
+- **Back-End**: Node.js
+- **Diseño UX/UI**: Enfocado en accesibilidad y experiencia de usuario
+- **Herramientas**: Git, GitHub, Trello, Jira, Postman
 
-Maquetado: Tailwind CSS, ShadCN/UI
+---
 
-Back-End: Node.js
+## 🌟 Proyectos destacados
 
-Optimización: Lazy Code Loading, Performance Tuning
+### 🐾 [Huellitas en Casa](https://github.com/No-Country-simulation/c21-38-n-java-react)
+Plataforma para adopción de mascotas con login, creación de usuarios y gestión de refugios.
 
-Diseño UX/UI: Curso de UX/UI (enfocado en diseño accesible y experiencia de usuario)
+### 🌍 [WordRank](https://github.com/AzzADesigns/WordRanks)
+Aplicación para explorar países con filtros, búsqueda funcional y animaciones.
 
-Gestión de proyectos: GitHub Projects, Trello, Jira
+### 🏫 [ClassRun](https://github.com/No-Country-simulation/s20-03-webapp)
+Sistema de seguimiento escolar con integración de API.
 
-Control de versiones: Git & GitHub
+---
 
-Conocimientos en: Consumo de APIs,  Next , Typescript y Postman
+## 👥 Experiencia en equipo
 
-🌍 Idiomas
+Trabajo en equipos utilizando metodologías ágiles y herramientas como **GitHub Projects** y **Trello**. Me adapto rápidamente a nuevas dinámicas y disfruto colaborando para crear productos de calidad.
 
-Español: Nativo
+---
 
-Inglés: A1 (actualmente cursando A2)
+## 📫 Contacto
 
-📌 Proyectos destacados
+- **GitHub**: [AzzADesigns](https://github.com/AzzADesigns)
+- **LinkedIn**: [Azariel Moreno](https://www.linkedin.com/in/azariel-moreno-4267ba254/)
+- **Email**: walter.azariel.moreno@gmail.com
 
-Huellitas en casa:  https://github.com/No-Country-simulation/c21-38-n-java-react 
- -[Plataforma para Adopcion de Mascotas multi refugios con Login, creacion de Mascotas y Creacion de usuarios]
+---
 
-
-WordRank:https://github.com/AzzADesigns/WordRanks
- -[Consumo de API de Paises, con filtros, organizacion por multiples parametros, busqueda funcional, seguimiento de paises en pantalla, animaciones y Lazy code]
-
-
-ClassRun: https://github.com/No-Country-simulation/s20-03-webapp
- -[Aplicacion de Seguimiento escolar (front-end y consumo de api)]
-
-👥 Experiencia en trabajo en equipo
-
-He trabajado 4 meses en equipo utilizando metodologías ágiles y herramientas de gestión de proyectos y Github para control de versiones. Me adapto rápidamente a nuevas dinámicas de trabajo y disfruto colaborando con otros desarrolladores para crear productos de calidad.
-
-📫 Contacto
-
-Si quieres hablar sobre desarrollo web, oportunidades laborales o simplemente conectar, puedes encontrarme en:
-
-GitHub: [github.com/AzzADesigns](https://github.com/AzzADesigns)
-
-LinkedIn: [linkedin.com/in/azarielmoreno](https://www.linkedin.com/in/azariel-moreno-4267ba254/)
-
-Email: walter.azariel.moreno@gmail.com
-
-✨ Siempre aprendiendo y mejorando para crear mejores experiencias digitales. ¡Gracias por visitar mi perfil! 🚀
+¡Gracias por visitar mi perfil! 😊
