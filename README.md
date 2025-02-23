@@ -6,19 +6,45 @@
 
 ## 🛠️ Tecnologías
 
-- **Front-End**: React, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3
-- **Animaciones**: Framer Motion
-- **Maquetado**: Tailwind CSS, ShadCN/UI
-- **Back-End**: Node.js
-- **Optimización**: Lazy Code Loading, Performance Tuning
-- **Diseño UX/UI**: Curso de UX/UI (diseño accesible y experiencia de usuario)
-- **Gestión de proyectos**: GitHub Projects, Trello, Jira
-- **Control de versiones**: Git & GitHub
-- **Nociones adicionales**: Consumo de APIs, Next.js, TypeScript, Postman
-- **Ingles A1**
+**Front-End:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Animaciones:**  
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+**Maquetado:**  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![ShadCN/UI](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=&logoColor=white)
+
+**Back-End:**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Optimización:**  
+- Lazy Code Loading  
+- Performance Tuning
+
+**Diseño UX/UI:**  
+- Curso de UX/UI (diseño accesible y experiencia de usuario)
+
+**Gestión de Proyectos:**  
+- GitHub Projects  
+- Trello  
+- Jira
+
+**Control de Versiones:**  
+- Git & GitHub
+
+**Nociones Adicionales:**  
+- Consumo de APIs  
+- Next.js  
+- TypeScript  
+- Postman
 
 ---
-
 ## 🌟 Proyectos destacados
 
 ### 🐾 [Huellitas en Casa](https://github.com/No-Country-simulation/c21-38-n-java-react)
@@ -36,14 +62,17 @@ Sistema de seguimiento escolar con integración de API.
 
 Experiencia de más de 4 meses de trabajo en equipos multidiciplinarios utilizando metodologías ágiles **(SCRUM)** y herramientas como **GitHub Projects** y **Trello**. Me adapto rápidamente a nuevas dinámicas y disfruto colaborando para crear productos de calidad.
 
+## 🔹 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzzADesigns&show_icons=true&theme=tokyonight&count_private=true)
+
 ---
 
-## 📫 Contacto
+## 🤝 Connect with me
 
 - **GitHub**: [AzzADesigns](https://github.com/AzzADesigns)
 - **LinkedIn**: [Azariel Moreno](https://www.linkedin.com/in/azariel-moreno-4267ba254/)
 - **Email**: walter.azariel.moreno@gmail.com
 
----
 
 ¡Gracias por visitar mi perfil! 😊
