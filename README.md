@@ -67,8 +67,6 @@ Aplicación para explorar países con filtros, búsqueda funcional y animaciones
 ### 🏫 [ClassRun](https://github.com/No-Country-simulation/s20-03-webapp)
 Sistema de seguimiento escolar con integración de API.
 
-### 📌 [Proyecto Adicional](https://github.com/No-Country-simulation/s21-14-n-webapp)
-(Agregar breve descripción sobre este proyecto).
 
 ---
 
