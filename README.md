@@ -1,4 +1,4 @@
-# 💻 Azariel Moreno | Front-End Developer
+# 💻 Azariel Moreno | Full-Stack Developer
 
 ¡Hola! 👋 Soy **Azariel Moreno**, un desarrollador Front-End con más de **2 años de estudio y experiencia** en la creación de interfaces web atractivas, optimizadas y de alto rendimiento, individualmente o en equipo. Me apasiona aprender nuevas tecnologías y mejorar mis habilidades para llevar mis proyectos al siguiente nivel. 🚀
 
