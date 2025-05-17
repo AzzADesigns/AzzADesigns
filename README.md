@@ -1,6 +1,6 @@
 # 💻 Azariel Moreno | Full-Stack Developer
 
-¡Hola! 👋 Soy **Azariel Moreno**, un desarrollador Full-Stack con más de **2 años de estudio y experiencia** en la creación de interfaces web atractivas, optimizadas y de alto rendimiento, individualmente o en equipo. Me encanta retarme a mi mismo en una mejora constante, esfuerzo que se ve reflejado en cada pagina web que hago. 🚀
+¡Hola! 👋 Soy **Azariel Moreno**, un desarrollador Full-Stack con más de **2 años de estudio**  que incluyen **1 año de experiencia** en la creación de interfaces web atractivas, optimizadas y de alto rendimiento, individualmente o en equipo. Me encanta retarme a mi mismo en una mejora constante, esfuerzo que se ve reflejado en cada pagina web que hago. 🚀
 
 ---
 
@@ -69,7 +69,7 @@ Aplicación para explorar países con filtros, búsqueda funcional y animaciones
 ### 🏫 [ClassRun](https://github.com/No-Country-simulation/s20-03-webapp)
 Sistema de seguimiento escolar con integración de API.
 
-### 🌊 [Código del Mar](https://github.com/AzzADesigns/CodigoDelMar)  
+### 🌊 [Código del Mar]([https://github.com/AzzADesigns/CodigoDelMar/tree/develop])  
 Página creada para un grupo de clientes con el objetivo de mostrar sus servicios. Incluye animaciones y un formulario funcional con validaciones.  
 🚧 *Estará en producción (deploy) en los próximos días.*
 
