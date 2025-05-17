@@ -69,7 +69,7 @@ Aplicación para explorar países con filtros, búsqueda funcional y animaciones
 ### 🏫 [ClassRun](https://github.com/No-Country-simulation/s20-03-webapp)
 Sistema de seguimiento escolar con integración de API.
 
-### 🌊 [Código del Mar]([https://github.com/AzzADesigns/CodigoDelMar/tree/develop])  
+### 🌊 [Código del Mar](https://github.com/AzzADesigns/CodigoDelMar/tree/develop)  
 Página creada para un grupo de clientes con el objetivo de mostrar sus servicios. Incluye animaciones y un formulario funcional con validaciones.  
 🚧 *Estará en producción (deploy) en los próximos días.*
 
