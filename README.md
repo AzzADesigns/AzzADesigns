@@ -53,6 +53,10 @@
 ---
 ## 🌟 Proyectos Destacados
 
+### 🎵 [In-Audio](https://github.com/AzzADesigns/In-Audio-Oficial)  
+MVP musical [1/4 etapas realizadas], hecho con React, Framer Motion, con backend en Node.js y Express enfocado en el consumo seguro de APIs.  
+🔗 [Ver página](https://exquisite-raindrop-85fb56.netlify.app/)
+
 ### 🏡 [Urbania](https://github.com/No-Country-simulation/s21-14-n-webapp)
 Plataforma web desarrollada para una inmobiliaria especializada en la venta de propiedades de lujo.
 
@@ -64,6 +68,13 @@ Aplicación para explorar países con filtros, búsqueda funcional y animaciones
 
 ### 🏫 [ClassRun](https://github.com/No-Country-simulation/s20-03-webapp)
 Sistema de seguimiento escolar con integración de API.
+
+### 🌊 [Código del Mar](https://github.com/AzzADesigns/CodigoDelMar)  
+Página creada para un grupo de clientes con el objetivo de mostrar sus servicios. Incluye animaciones y un formulario funcional con validaciones.  
+🚧 *Estará en producción (deploy) en los próximos días.*
+
+### 🏢 [Acme](https://github.com/AzzADesigns/Acme)  
+Página desarrollada siguiendo la documentación oficial de Next.js para aprender el framework. Incluye CRUD de empleados y autenticación.
 
 
 ---
