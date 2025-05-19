@@ -55,7 +55,7 @@
 
 ### 🎵 [In-Audio](https://github.com/AzzADesigns/In-Audio-Oficial)  
 MVP musical [1/4 etapas realizadas], hecho con React, Framer Motion, con backend en Node.js y Express enfocado en el consumo seguro de APIs.  
-🔗 [Ver página](https://exquisite-raindrop-85fb56.netlify.app/)
+🔗 [Ver página](https://in-audio.netlify.app/)
 
 ### 🏡 [Urbania](https://github.com/No-Country-simulation/s21-14-n-webapp)
 Plataforma web desarrollada para una inmobiliaria especializada en la venta de propiedades de lujo.
@@ -65,6 +65,7 @@ Plataforma para adopción de mascotas con login, creación de usuarios y gestió
 
 ### 🌍 [WordRank](https://github.com/AzzADesigns/WordRanks)
 Aplicación para explorar países con filtros, búsqueda funcional y animaciones.
+🔗 [Ver página](https://wordrank.netlify.app/)
 
 ### 🏫 [ClassRun](https://github.com/No-Country-simulation/s20-03-webapp)
 Sistema de seguimiento escolar con integración de API.
