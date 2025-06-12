@@ -83,7 +83,7 @@ Página desarrollada siguiendo la documentación oficial de Next.js para aprende
 
 ## 👥 Experiencia en equipo
 
-Experiencia de más de 4 meses de trabajo en equipos multidiciplinarios utilizando metodologías ágiles **(SCRUM)** y herramientas como **GitHub Projects** y **Trello**. Me adapto rápidamente a nuevas dinámicas y disfruto colaborando para crear productos de calidad.
+Experiencia en trabajo en equipos multidiciplinarios utilizando metodologías ágiles **(SCRUM)** y herramientas como **GitHub Projects** y **Trello**. Me adapto rápidamente a nuevas dinámicas y disfruto colaborando para crear productos de calidad.
 
 ## 🔹 GitHub Analytics
 
