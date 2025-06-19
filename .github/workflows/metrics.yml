@@ -21,4 +21,4 @@ jobs:
           config_timezone: America/Argentina/Buenos_Aires
           filename: metrics.svg
           output_action: commit
-          output_branch: generated
+          committer_branch: main  # reemplaza al inválido output_branch
