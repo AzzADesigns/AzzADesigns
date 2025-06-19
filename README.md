@@ -85,9 +85,11 @@ Página desarrollada siguiendo la documentación oficial de Next.js para aprende
 
 Experiencia en trabajo en equipos multidiciplinarios utilizando metodologías ágiles **(SCRUM)** y herramientas como **GitHub Projects** y **Trello**. Me adapto rápidamente a nuevas dinámicas y disfruto colaborando para crear productos de calidad.
 
-## 🔹 GitHub Analytics
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzzADesigns&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub metrics](https://github.com/AzzADesigns/AzzADesigns/blob/main/metrics.svg)
+
+
 
 ---
 
