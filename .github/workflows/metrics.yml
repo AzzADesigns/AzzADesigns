@@ -19,3 +19,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Argentina/Buenos_Aires
+          filename: metrics.svg
+          output_action: commit
+          output_branch: generated
