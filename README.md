@@ -1,15 +1,30 @@
 # 💻 Azariel Moreno | Full-Stack Developer
 
-¡Hola! 👋 Soy **Azariel Moreno**, un desarrollador Full-Stack con **3 años de estudio**  que incluyen **1 año de experiencia** en la creación de interfaces web atractivas, optimizadas y de alto rendimiento, individualmente o en equipo. Me encanta retarme a mi mismo en una mejora constante, esfuerzo que se ve reflejado en cada pagina web que hago. 🚀
+<h3 align="center">🚀 ¡Hola! 👋 Soy Walter Azariel Moreno</h3>
+<h4 align="center">Un programador Full-Stack en ascenso, con enfoque en crear interfaces modernas, optimizadas y de alto rendimiento.</h4>
+
+---
+
+## 👨‍💻 Sobre mí
+
+- 🔭 Actualmente soy **desarrollador independiente**, potenciando la marca personal de mis clientes con un efoque de desarrollo basado en componentes (CDD) en [AzzADesignsWebs](https://www.azzadesigns.dev/)  
+- 👯 Colaboro activamente en la comunidad **[ShareIT](https://shareit.lat/)** como programador Front-End  
+- 🌱 En constante aprendizaje: profundizando en **animaciones web (GSAP)**, back-end con **Node.js, Express, SQL** y herramientas modernas como **Warp y HTTPie**  
+- 📝 Me gusta compartir experiencias, aprendizajes y recursos en mi red principal: [LinkedIn](https://www.linkedin.com/in/azariel-moreno-4267ba254/)  
+- 💬 Disfruto colaborar en equipos multidisciplinarios bajo metodologías ágiles **(SCRUM)**  
+
+📫 **Contáctame en:**  
+**walter.azariel.moreno@gmail.com**
 
 ---
 
 ## 🛠️ Tecnologías
 
-### 🧩 Front-End:
+### 🧩 Front-End
 <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -18,12 +33,13 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-### 🎞️ Animaciones:
+### 🎞️ Animaciones
 <div align="left">
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
   <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </div>
 
-### 🔧 Back-End:
+### 🔧 Back-End
 <div align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -31,73 +47,47 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
-### 🧠 Optimización:
+### ⚡ Herramientas & DevOps
+<div align="left">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Warp-4BFFA5?style=for-the-badge&logo=warp&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTTPie-73DC8C?style=for-the-badge&logo=httpie&logoColor=black" />
+</div>
+
+### 🧠 Optimización
 - Lazy Code Loading  
 - Performance Tuning  
 
-### 🎨 Diseño UX/UI:
-- Curso de UX/UI (diseño accesible y experiencia de usuario)
+### 🎨 Diseño UX/UI
+- Figma  
+- Experiencia en diseño accesible y orientado al usuario  
 
-### 🗂️ Gestión de Proyectos:
-- GitHub Projects  
-- Trello  
-- Jira
-
-### 📌 Control de Versiones:
-- Git & GitHub
-
-### 🌐 Nociones Adicionales:
-- Consumo de APIs  
-- Postman
-
----
-## 🌟 Proyectos Destacados
-
-### 🎵 [In-Audio](https://github.com/AzzADesigns/In-Audio-Oficial)  
-MVP musical [1/4 etapas realizadas], hecho con React, Framer Motion, con backend en Node.js y Express enfocado en el consumo seguro de APIs.  
-🔗 [Ver página](https://in-audio.netlify.app/)
-
-### 🏡 [Urbania](https://github.com/No-Country-simulation/s21-14-n-webapp)
-Plataforma web desarrollada para una inmobiliaria especializada en la venta de propiedades de lujo.
-🔗 [Ver página](https://s21-14-n-webapp-urbania.onrender.com/)
-
-### 🐾 [Huellitas en Casa](https://github.com/No-Country-simulation/c21-38-n-java-react)
-Plataforma para adopción de mascotas con login, creación de usuarios y gestión de refugios.
-
-### 🌍 [WordRank](https://github.com/AzzADesigns/WordRanks)
-Aplicación para explorar países con filtros, búsqueda funcional y animaciones.
-🔗 [Ver página](https://wordrank.netlify.app/)
-
-### 🏫 [ClassRun](https://github.com/No-Country-simulation/s20-03-webapp)
-Sistema de seguimiento escolar con integración de API.
-
-### 🌊 [Código del Mar](https://github.com/AzzADesigns/CodigoDelMar/tree/develop)  
-Página creada para un grupo de clientes con el objetivo de mostrar sus servicios. Incluye animaciones y un formulario funcional con validaciones.  
-🚧 *Estará en producción (deploy) en los próximos días.*
-
-### 🏢 [Acme](https://github.com/AzzADesigns/Acme)  
-Página desarrollada siguiendo la documentación oficial de Next.js para aprender el framework. Incluye CRUD de empleados y autenticación.
-
+### 📌 Control de Versiones
+- Git & GitHub  
 
 ---
 
 ## 👥 Experiencia en equipo
 
-Experiencia en trabajo en equipos multidiciplinarios utilizando metodologías ágiles **(SCRUM)** y herramientas como **GitHub Projects** y **Trello**. Me adapto rápidamente a nuevas dinámicas y disfruto colaborando para crear productos de calidad.
+Trabajo en equipos multidisciplinarios aplicando **SCRUM**, usando **GitHub Projects, Trello y Jira**.  
+Me adapto rápidamente a nuevas dinámicas y disfruto colaborar para crear productos de calidad.  
+
+---
 
 ## 📊 GitHub Stats
 
 ![GitHub metrics](https://github.com/AzzADesigns/AzzADesigns/blob/main/metrics.svg)
 
-
-
 ---
 
-## 🤝 Connect with me
+## 🤝 Conecta conmigo
 
-- **GitHub**: [AzzADesigns](https://github.com/AzzADesigns)
-- **LinkedIn**: [Azariel Moreno](https://www.linkedin.com/in/azariel-moreno-4267ba254/)
-- **Email**: walter.azariel.moreno@gmail.com
+<p align="left">
+  <a href="https://github.com/AzzADesigns" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/azariel-moreno-4267ba254/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:walter.azariel.moreno@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+</p>
+
 
 
 ¡Gracias por visitar mi perfil! 😊
