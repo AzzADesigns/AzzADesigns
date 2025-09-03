@@ -1,22 +1,28 @@
-# 💻 Azariel Moreno | Full-Stack Developer
+![👋 ¡Hola! Soy Azariel Moreno](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
-<h3 align="center">🚀 ¡Hola! 👋 Soy Walter Azariel Moreno</h3>
-<h4 align="center">Un programador Full-Stack en ascenso, con enfoque en crear interfaces modernas, optimizadas y de alto rendimiento.</h4>
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 ¡Hola! Soy Azariel Moreno
+      </h1>
+    </summary>
+  </ul>
+</div>
 
----
+**<h3 align="left">Conecta conmigo:</h3>** 
+<p align="left"><a href="https://github.com/AzzADesigns" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/azariel-moreno-4267ba254/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="mailto:walter.azariel.moreno@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.azzadesigns.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-343B45?logo=google-chrome&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
 
-## 👨‍💻 Sobre mí
 
-- 🔭 Actualmente soy **desarrollador independiente**, potenciando la marca personal de mis clientes con un efoque de desarrollo basado en componentes (CDD) en [AzzADesignsWebs](https://www.azzadesigns.dev/)  
-- 👯 Colaboro activamente en la comunidad **[ShareIT](https://shareit.lat/)** como programador Front-End  
-- 🌱 En constante aprendizaje: profundizando en **animaciones web (GSAP)**, back-end con **Node.js, Express, SQL** y herramientas modernas como **Warp y HTTPie**  
-- 📝 Me gusta compartir experiencias, aprendizajes y recursos en mi red principal: [LinkedIn](https://www.linkedin.com/in/azariel-moreno-4267ba254/)  
-- 💬 Disfruto colaborar en equipos multidisciplinarios bajo metodologías ágiles **(SCRUM)**  
+**<h3 align="left">🚀 Desarrollador Full-Stack en ascenso, enfocado en crear interfaces modernas, mantenibles, escalables, optimizadas y de alto rendimiento.</h3>**
 
-📫 **Contáctame en:**  
-**walter.azariel.moreno@gmail.com**
+**<h3 align="left">Sobre mi</h3>**
 
----
+- 💼 Actualmente trabajo en: **💻 Desarrollo independiente con un efoque de desarrollo basado en componentes (CDD) en** [AzzADesignsWebs](https://www.azzadesigns.dev/) 
+- 👯 Colaboro en: **🌐 [ShareIT](https://shareit.lat/) como programador Front-End**
+- 🌱 En constante aprendizaje: profundizando en animaciones web, back-end con Node.js, Express, SQL, Warp y HTTPie**
+- ⚡ Dato curioso: **📝 Me gusta compartir experiencias, aprendizajes y recursos en mi red principal:**  [LinkedIn](https://www.linkedin.com/in/azariel-moreno-4267ba254/)  
+- 💬 Experiencia: **Poseo 2 años de experiencia en desarrollo independiente y colaborando en equipos multidisciplinarios bajo metodologías ágiles (SCRUM)**
 
 ## 🛠️ Tecnologías
 
@@ -67,27 +73,14 @@
 
 ---
 
-## 👥 Experiencia en equipo
-
-Trabajo en equipos multidisciplinarios aplicando **SCRUM**, usando **GitHub Projects, Trello y Jira**.  
-Me adapto rápidamente a nuevas dinámicas y disfruto colaborar para crear productos de calidad.  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub metrics](https://github.com/AzzADesigns/AzzADesigns/blob/main/metrics.svg)
-
----
-
-## 🤝 Conecta conmigo
+**<h3 align="left">Estadísticas de GitHub</h3>**
 
 <p align="left">
-  <a href="https://github.com/AzzADesigns" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/azariel-moreno-4267ba254/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:walter.azariel.moreno@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AzzADesigns&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  
 </p>
 
-
-
-¡Gracias por visitar mi perfil! 😊
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AzzADesigns&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs 
+</p>
+<p align="left"></p>
