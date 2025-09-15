@@ -18,7 +18,7 @@
 
 **<h3 align="left">Sobre mi</h3>**
 
-- 💼 Actualmente soy: **💻 Programador independiente con un efoque de desarrollo basado en componentes (CDD) en** [AzzADesignsWebs](https://www.azzadesigns.dev/) 
+- 💼 Actualmente soy: **💻 Programador Front-end en openLab Latam con un efoque de desarrollo basado en componentes (CDD) en** [OpenLabs Latam](https://limanorteperu.com/)
 - 👯 Colaboro en: **🌐 [ShareIT](https://shareit.lat/) como programador Front-End**
 - 🌱 En constante aprendizaje: profundizando en animaciones web, back-end con Node.js, Express, SQL, Warp y HTTPie**
 - ⚡ Dato curioso: **📝 Me gusta compartir experiencias, aprendizajes y recursos en mi red principal:**  [LinkedIn](https://www.linkedin.com/in/azariel-moreno-4267ba254/)  
