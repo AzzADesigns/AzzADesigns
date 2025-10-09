@@ -20,7 +20,7 @@
 
 - 💼 Actualmente soy: **💻 Programador Full-Stack con un efoque de desarrollo basado en componentes (CDD) en** [OpenLabs Latam](https://limanorteperu.com/)
 - 👯 Colaboro en: **🌐 [ShareIT](https://shareit.lat/) como programador Front-End**
-- 🌱 En constante aprendizaje: profundizando en animaciones web, back-end con Node.js, Express, SQL, Warp y HTTPie**
+- 🌱 Me encuentro : profundizando en animaciones web, back-end con NestJS, SQL, Warp y HTTPie**
 - ⚡ Dato curioso: **📝 Me gusta compartir experiencias, aprendizajes y recursos en mi red principal:**  [LinkedIn](https://www.linkedin.com/in/azariel-moreno-4267ba254/)  
 - 💬 Experiencia: **Poseo 2 años de experiencia en desarrollo independiente y colaborando en equipos multidisciplinarios bajo metodologías ágiles (SCRUM)**
 
