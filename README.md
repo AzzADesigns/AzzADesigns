@@ -20,7 +20,7 @@
 
 - 💼 Actualmente soy: **💻 Programador Full-Stack con un efoque de desarrollo basado en componentes (CDD) en** [OpenLabs Latam](https://limanorteperu.com/)
 - 👯 Colaboro en: **🌐 [ShareIT](https://shareit.lat/) como programador Front-End**
-- 🌱 Me encuentro : profundizando en animaciones web, back-end con NestJS, SQL, Warp y HTTPie**
+- 🌱 Me encuentro : profundizando Docker y back-end con NestJS, SQL, Warp y Postman**
 - ⚡ Dato curioso: **📝 Me gusta compartir experiencias, aprendizajes y recursos en mi red principal:**  [LinkedIn](https://www.linkedin.com/in/azariel-moreno-4267ba254/)  
 - 💬 Experiencia: **Poseo 2 años de experiencia en desarrollo independiente y colaborando en equipos multidisciplinarios bajo metodologías ágiles (SCRUM)**
 
@@ -62,6 +62,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Warp-4BFFA5?style=for-the-badge&logo=warp&logoColor=black" />
   <img src="https://img.shields.io/badge/HTTPie-73DC8C?style=for-the-badge&logo=httpie&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 ### 🧠 Optimización
