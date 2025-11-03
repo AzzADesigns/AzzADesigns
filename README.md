@@ -69,8 +69,7 @@
 - Performance Tuning  
 
 ### 🎨 Diseño UX/UI
-- Figma  
-- Experiencia en diseño accesible y orientado al usuario  
+- Figma    
 
 ### 📌 Control de Versiones
 - Git & GitHub  
