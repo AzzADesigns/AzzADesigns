@@ -72,7 +72,7 @@
 - Figma    
 
 ### 📌 Control de Versiones
-- Git & GitHub  
+- Git & GitHub 
 
 ---
 
