@@ -19,10 +19,10 @@
 **<h3 align="left">Sobre mi</h3>**
 
 - 💼 Actualmente soy: **💻 Programador Full-Stack con un efoque de desarrollo basado en componentes (CDD) en** [OpenLabs Latam](https://limanorteperu.com/)
-- 👯 Colaboro en: **🌐 [ShareIT](https://shareit.lat/) como programador Front-End**
-- 🌱 Me encuentro : profundizando Docker y back-end con NestJS, SQL, Warp y Postman**
+- 🦈 Mi firma y marca: **[AzzADesigns](https://azzadesigns.dev) (Desarrollo Full-Stack, Creative Developer, Product Manager, Diseñador Ux/Ui)**
+- 🌱 Me encuentro : Three.js, Product Manager, Ingles B1**
 - ⚡ Dato curioso: **📝 Me gusta compartir experiencias, aprendizajes y recursos en mi red principal:**  [LinkedIn](https://www.linkedin.com/in/azariel-moreno-4267ba254/)  
-- 💬 Experiencia: **Poseo 2 años de experiencia en desarrollo independiente y colaborando en equipos multidisciplinarios bajo metodologías ágiles (SCRUM)**
+- 💬 Experiencia: **Poseo +2 años de experiencia en desarrollo independiente y colaborando en equipos multidisciplinarios bajo metodologías ágiles (SCRUM)**
 
 ## 🛠️ Tecnologías
 
@@ -47,6 +47,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
   <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src= "https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
 </div>
 
 ### 🔧 Back-End
